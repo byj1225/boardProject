@@ -20,6 +20,7 @@
  	width: 1000px;    
  	margin-top : 20px;
  	text-align: center;
+ 	
   }
   td, th{
   	border : 1px solid black;
